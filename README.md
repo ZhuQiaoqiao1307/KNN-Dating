@@ -1,9 +1,9 @@
 ##TEST
 
 <br>from numpy import *<br>
-import operator
-from collections import Counter
-import matplotlib
-import matplotlib.pyplot as plt
-import KNN
-KNN.classifyPerson()
+<br>import operator<br>
+<br>from collections import Counter<br>
+<br>import matplotlib<br>
+<br>import matplotlib.pyplot as plt<br>
+<br>import KNN<br>
+<br>KNN.classifyPerson()<br>
